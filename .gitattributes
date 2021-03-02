@@ -1,2 +1,5 @@
 *.html linguist-detectable=false
+*.rtf linguist-detectable=false
+*.xml linguist-detectable=false
+*.txt linguist-detectable=false
 *.cplus linguist-detectable=true
